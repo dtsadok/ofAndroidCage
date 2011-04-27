@@ -23,7 +23,7 @@ USER_LD_FLAGS =
 # use this to add system libraries for example:
 # USER_LIBS = -lpango
 
-USER_LIBS =
+USER_LIBS = -lGLESv2
 
 
 # change this to add different compiler optimizations to your project

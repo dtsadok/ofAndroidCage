@@ -1,4 +1,4 @@
-package net.danieltsadok;
+package cc.openframeworks.ofAndroidCage;
 
 import android.app.Activity;
 import android.os.Bundle;
