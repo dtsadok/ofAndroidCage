@@ -1,4 +1,6 @@
-bin
 .project
+bin
 obj
+libs
 gen
+AndroidDebug
